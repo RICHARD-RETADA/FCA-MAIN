@@ -1,1 +1,1 @@
-{"index" : "main.js"}
+main.js
