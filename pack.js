@@ -1,0 +1,1 @@
+{"pack" : "./package.json"}
