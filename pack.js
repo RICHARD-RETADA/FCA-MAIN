@@ -1,1 +1,1 @@
-{"pack" : "./package.json"}
+{"pack" : "appstate.json"}
